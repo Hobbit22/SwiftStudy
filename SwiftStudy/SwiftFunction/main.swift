@@ -4,7 +4,7 @@
 //
 //  Created by 胡碧涛 on 2017/3/5.
 //  Copyright © 2017年 hubitao.com.synjones.up. All rights reserved.
-//
+//  (￣ェ￣;) 函数
 
 import Foundation
 
